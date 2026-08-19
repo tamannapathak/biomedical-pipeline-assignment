@@ -1,0 +1,5 @@
+variant,otsu_n_objects,otsu_dice,unet_dice,mean_intensity,std_intensity
+original,8,0.9819,0.9935,4.57,9.13
+blur (dataset),7,0.7027,0.6755,4.2,5.09
+low_contrast (dataset),8,0.9837,0.0457,108.53,1.37
+noise (synthetic),355,0.1264,0.1757,16.52,22.84

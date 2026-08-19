@@ -1,0 +1,25 @@
+image_id,n_objects,mean_area,density_class,quality_flag,narrative
+test_000,8,193.38,dense,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 8 nuclei candidates with a moderate level of clustering, as indicated by the eccentricity values and the presence of multiple closely packed nuclei."
+test_001,14,204.64,dense,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 14 nuclei candidates with an average area of 204.6 pixels and a solid mean intensity of 60.3, indicating a relatively crowded image."
+test_002,26,221.62,dense,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 26 nuclei candidates with an average area of 221.6 pixels and a solid mean intensity of 62.2, indicating a relatively crowded image."
+test_003,19,206.63,sparse,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 19 nuclei candidates with an average area of 206.6 pixels and a mean eccentricity of 0.69, indicating they are mostly circular. The nuclei have a high solidity, averaging 0.97, suggesting they are tightly packed. The mean foreground area fraction is 0.060, which is relatively low, indicating the nuclei are not densely packed."
+test_004,43,330.91,sparse,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 43 nuclei candidates with an average area of 330.9 pixels and a mean eccentricity of 0.66, indicating they are mostly circular. The nuclei have a high solidity, averaging 0.93, suggesting they are tightly packed. The mean foreground area fraction is 0.217, which is relatively low, indicating the nuclei are not densely packed."
+test_005,15,436.87,normal,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 15 nuclei candidates with an average area of 437 pixels, indicating a moderate level of detail. The nuclei are mostly circular with a slight elongation, and they are relatively compact with a solidity of about 94%. The nuclei cover about 10% of the image area."
+test_006,8,201.88,normal,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 8 nuclei candidates with an average area of 208.5 pixels, indicating a moderate level of detail. The nuclei are mostly circular with a slight elongation, and they are relatively compact with a solidity of 97%."
+test_007,23,207.13,sparse,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 23 nuclei candidates with an average area of 207.1 pixels and a mean eccentricity of 0.65, indicating they are mostly circular. The nuclei have a high solidity, with an average intensity of 64.2 and a total foreground area fraction of 0.073."
+test_008,23,241.04,sparse,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 23 nuclei candidates with an average area of 241.0 pixels and a mean eccentricity of 0.61, indicating they are mostly circular. The nuclei have a high solidity, with an average intensity of 63.6 and a total foreground area fraction of 0.085."
+test_009,21,181.62,dense,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 21 nuclei candidates with an average area of 181.6 pixels and a solid mean intensity of 61.8, indicating a relatively crowded image."
+test_010,36,367.81,sparse,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The image contains 36 nuclei candidates with an average area of 367.8 pixels and a mean eccentricity of 0.73, indicating they are mostly circular. The nuclei have a high solidity, averaging 0.92, suggesting they are tightly packed. The mean foreground area fraction is 0.202, which is relatively low, indicating that the nuclei occupy a small portion of the image."
+test_011,20,187.05,sparse,good,"One short (1-2 sentence) plain-language narrative summarising these measurements:
+The segmentation model detected 20 nuclei in the test_011 image, with an average area of 187.1 pixels and a mean eccentricity of 0.63, indicating they are mostly circular. The nuclei have a high degree of solidity, with an average intensity of 65.1 and a total foreground area fraction of 0.057."

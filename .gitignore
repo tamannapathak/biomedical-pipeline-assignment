@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+
+# Model checkpoints ARE tracked (small, ~2MB each) so the trained U-Net
+# weights are reproducible/inspectable without re-running training.

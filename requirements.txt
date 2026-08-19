@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-image
+scikit-learn
+scipy
+pillow
+torch
+ollama
+nbformat
+nbclient
+ipykernel
+jupyter
